@@ -19,7 +19,7 @@ struct NiallOBroin: Website {
     var url = URL(string: "https://TurbulentDynamics.com")!
     var title = "TurbulentDynamics.github.io"
     var name = "Turbulent Dynamics"
-    var description = "Some Photos and Words from Turbulent Dynamics"
+    var description = "Turbulent Dynamics Website"
     var language: Language { .english }
     var imagePath: Path? { nil }
 //    var socialMediaLinks: [SocialMediaLink] { [.location, .email, .linkedIn, .github, .twitter] }
