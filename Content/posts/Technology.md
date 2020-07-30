@@ -5,7 +5,7 @@ tags: technology
 typora-copy-images-to: ../../Resources/Images
 typora-root-url: ../../Resources
 ---
-
+# Technology
 
 
 ![axis](/Images/banner-axis-nx3000.jpg)
