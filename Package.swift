@@ -1,9 +1,10 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.5
 
 import PackageDescription
 
 let package = Package(
     name: "TurbulentDynamics",
+    platforms: [.macOS(.v12)],
     products: [
         .executable(
             name: "TurbulentDynamics",
@@ -11,12 +12,12 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.6.0")
+        .package(url: "https://github.com/johnsundell/publish.git", from: "0.9.0")
     ],
     targets: [
-        .target(
+        .executableTarget(
             name: "TurbulentDynamics",
-            dependencies: ["Publish"]
+            dependencies: [.product(name: "Publish", package: "publish")]
         )
     ]
 )
