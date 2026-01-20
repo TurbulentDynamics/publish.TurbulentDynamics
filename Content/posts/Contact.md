@@ -12,18 +12,13 @@ typora-root-url: ../../Resources
 <hr>
 <p>Dublin, Ireland</p>
 
-<p>+353863641386</p>
-
 </p><a href="dublin@turbulentdynamics.com">dublin@turbulentdynamics.com</a></p>
 
 
 <h2> Zagreb Office</h2>
 <hr>
-</p>Zicer, Velesajam</p>
 
 </p>Zagreb, Croatia</p>
-
-</p>+385977481381</p>
 
 </p><a href="zagreb@turbulentdynamics.com">zagreb@turbulentdynamics.com</a></p>
 

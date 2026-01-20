@@ -16,21 +16,12 @@ High Performance Computing
 Supercomputing Services
 
 
-Turbulent Dynamics partners with the right customers to deliver the most of of High Performance Resources through highly optimised code and workflows.  Navigate the world of technology and software options .
-
 
 Turbulent Dynamics developes Maching Learning, MPI and iOS applications for both High Performance Computing (Supercomputing) edge devices (Xavier, Raspberry PI, MyriadX) and MacOS.
 
 
 
-
-primary to write and improve code and software.   We have run many multi-million core-hour simulation and 
-
-We are passionate about performance and 
-
-HPC tools
-
-
+We are passionate about performance
 
 
 Core Competencies

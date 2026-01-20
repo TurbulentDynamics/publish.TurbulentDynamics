@@ -9,10 +9,7 @@ typora-root-url: ../../Resources
 
 
 ![axis](/Images/banner-axis-nx3000.jpg)
-
-
-
-##         
+      
 
 HPC Tools,CUDA, C++, C, OpenMP, MPI, Python, Nvidia tools, Machine Learning
   
