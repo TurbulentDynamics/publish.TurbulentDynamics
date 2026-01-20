@@ -17,7 +17,7 @@ HPC Tools,CUDA, C++, C, OpenMP, MPI, Python, Nvidia tools, Machine Learning
   
   
   
-![technology](/Images/krull.png)
+![technology](/Images/Krull.png)
 
 
 
