@@ -9,11 +9,13 @@ typora-root-url: ../../Resources
 
 
 
-Passionate about Performance
+* Passionate about Performance
 
-High Performance Computing
+* High Performance Computing
 
-Supercomputing Services
+* Supercomputing Services
+
+* AI Augumented Simulation
 
 
 
@@ -25,6 +27,7 @@ We are passionate about performance
 
 
 Core Competencies
+
 * Targeting simulations larger than a thousand cores and a million core-hours
 * Algorithm and HPC development
 
