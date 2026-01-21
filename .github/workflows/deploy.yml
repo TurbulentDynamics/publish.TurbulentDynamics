@@ -24,10 +24,8 @@ jobs:
       - name: Build with Publish
         run: swift run TurbulentDynamics
 
-      - name: Fix paths for subdirectory deployment
-        run: |
-          find ./Output -name "*.html" -exec sed -i '' 's|href="/|href="/publish.TurbulentDynamics/|g' {} \;
-          find ./Output -name "*.html" -exec sed -i '' 's|src="/|src="/publish.TurbulentDynamics/|g' {} \;
+      - name: Add CNAME
+        run: echo "turbulentdynamics.com" > ./Output/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

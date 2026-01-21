@@ -14,7 +14,7 @@ struct NiallOBroin: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://TurbulentDynamics.com/publish.TurbulentDynamics")!
+    var url = URL(string: "https://TurbulentDynamics.com")!
     var title = "TurbulentDynamics.github.io"
     var name = "Turbulent Dynamics"
     var description = "Turbulent Dynamics Website"
